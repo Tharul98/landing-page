@@ -1,0 +1,23 @@
+.anima {
+  animation: contact 3s infinite;
+  
+  
+}
+@keyframes contact {
+  15% {
+    color: darkviolet;
+  }
+  35% {
+    color: #ea1d5d;
+  }
+
+  50% {
+    color: #f47721;
+  }
+  75% {
+    color: #00c16e;
+  }
+  100% {
+    color: #00bce4;
+  }
+}
